@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Indie+Flower|Pacifico|Ravi+Prakash');
+body {
+    background-image: url("http://s1.1zoom.net/big3/52/356644-admin.jpg");
+    background-size: 100% ;
+   }
+
+h1 {
+    margin-top: 60px;
+    font-family:  Lobster;
+    font-size:  72px;
+    text-align: center;
+    text-decoration: underline;
+    color:  #00CC66;
+}
+
+h2 {
+    font-family:  verdana;
+    font-size:  32px;
+    text-align:  center;
+    color:  #809900;
+    font-style: ;
+}
+
+
+
+#quotes {
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 25%;
+    padding-left: 30px;
+    padding-right: 30px;
+    background: rgba(0 , 90, 0, 0.50);
+    font-size:  32px;
+    font-family:  indie flower;
+    text-align: center;
+    color:  #99FF66;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+#author {
+    margin: 10px, 10px, 10px, 10px;
+    width: 50%;
+    margin-left: 25%;
+    padding-right: 50px;
+    background: rgba(0 , 90, 0, 0.50);
+    font-size:  22px;
+    font-family:  indie flower;
+    color:  #66CC33;
+    text-align: right;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+#btn {
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 25%;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#gen {
+    background: rgba(0 , 90, 0, 0.30);
+    border: none;
+    font-size: 16px;
+    border-radius: 5px;
+    color: #66FF33;
+}
+
+#bottom {
+    position: relative;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+#share {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 100px;
+
+}
+#by {
+    position: absolute;
+    text-align: center;
+    bottom: 0%;
+    width: 100%;
+    margin-bottom: 60px;
+}
